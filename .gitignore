@@ -1,0 +1,7 @@
+/target
+old_main*
+scratch.txt
+Cargo.lock
+match.log
+.client_id
+.client_secret
